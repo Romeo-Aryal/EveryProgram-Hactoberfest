@@ -4,7 +4,7 @@ You can push any program in this repo. It is just to help you guys contribute in
 ## Introduction
 This repository gives an idea for the new contributors to begin their journey of open source. 
 
-##Code Of Conduct
+## Code Of Conduct
 - To help beginners help in contributing to open source.
 - To help the learners get the code easily.
 
